@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    margin-top: 20%;
+}
+#container{
+    justify-items: center;
+}
+h1{
+    color: aliceblue;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    width: 100px;
+    font-size: larger;
+    border-radius: 10px;
+    cursor: pointer;
+}
